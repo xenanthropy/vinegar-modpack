@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "03a2f7d9d9c8de9d7b7dcd11dd089e3d13bfe7a91eb143f641a66dce78348d54"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "14b63d636f72364a63f76ca7cd35612a755fe3bf2148d6d67012895abeed7450"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "45e56b31dbb99cdb63c43338979328093b7369813448fd6875d13c9f81aa2799"
 metafile = true
 
 [[files]]
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "7ac77795261be4d81ed71032a1d2ff1a07208db5b70ea6400e242623c6c7e252"
 metafile = true
 
 [[files]]

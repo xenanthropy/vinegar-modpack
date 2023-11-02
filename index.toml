@@ -29,6 +29,11 @@ hash = "5eba39d9e5a05337908239be113ec4bc26b557d8bc9bf10e0c7d9528bcb71d4d"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "f5c42d829a4f11f0b0c004cf6de7a3b418a8b8335cbb86a84cd0dba307e9ebb2"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
@@ -154,6 +159,16 @@ hash = "7ac77795261be4d81ed71032a1d2ff1a07208db5b70ea6400e242623c6c7e252"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "80b26b04ed978a74ec17b8859b7169ec8dad7444c8a773e0473d77d3ebcc018f"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "1290ebda438ceb069e9e6a92ee72166140aa90d9f84a696f27a06ef4659ff2e0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ba66220083e312679a37f9b2bbe5e2752e180e28f8ae773f7cee62a890ec612c"
 metafile = true
@@ -176,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "d87651d3f9d36d61e3d126b3b25f7a820a729269fd15d47eea53f928f43738b0"
 metafile = true
 
 [[files]]

@@ -26,11 +26,6 @@ hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "3d41430a4cafca0796d63aacf7390d12f1389f1b019bbea5f202a05b23d09ce3"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
 metafile = true

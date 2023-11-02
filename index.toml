@@ -26,8 +26,18 @@ hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "3d41430a4cafca0796d63aacf7390d12f1389f1b019bbea5f202a05b23d09ce3"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
 metafile = true
 
 [[files]]
@@ -41,6 +51,11 @@ hash = "9958fb387df596f96a5b6b0a12f3def77dd75d9ae3781709b6510744fd98db98"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e17230dbcac9c27d1744a39585e1d90ec2790ca5e2023acf3d5cd08f005f6550"
 metafile = true
 
 [[files]]
@@ -68,6 +88,21 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "d70dbd8b33fed4bf7be40d4cafd37d8ffb7916e7d06670f53c91f3ed6a0a98f5"
 metafile = true
 
 [[files]]
@@ -113,4 +148,14 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "88c0fc20bad48c7c65dc7394f8dbb00b908c4c4c21323a2160705177ccf10cc3"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true

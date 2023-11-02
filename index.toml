@@ -21,6 +21,11 @@ hash = "45e56b31dbb99cdb63c43338979328093b7369813448fd6875d13c9f81aa2799"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "df4ef9b13881c60bbdbefb798a9c4654a0c8dd6ed7f84a878ab9c49db5e2ca18"
 metafile = true
@@ -41,8 +46,18 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]

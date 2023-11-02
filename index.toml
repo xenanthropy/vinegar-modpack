@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/mod-package.yml"
+hash = "5285081716e8ba96f7eea3d156c98580eb75f5f4d2b8d05a7c7bcc75d05f84cb"
+
+[[files]]
+file = "README.md"
+hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "03a2f7d9d9c8de9d7b7dcd11dd089e3d13bfe7a91eb143f641a66dce78348d54"
 metafile = true
@@ -16,6 +24,16 @@ hash = "14b63d636f72364a63f76ca7cd35612a755fe3bf2148d6d67012895abeed7450"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "5eba39d9e5a05337908239be113ec4bc26b557d8bc9bf10e0c7d9528bcb71d4d"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "45e56b31dbb99cdb63c43338979328093b7369813448fd6875d13c9f81aa2799"
 metafile = true
@@ -23,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "3c8e9fdc9486a00580de0ba49f9a705f98c8696966f937373320e3a2e9dbadbc"
 metafile = true
 
 [[files]]
@@ -106,6 +129,16 @@ hash = "bb3f98696004987f53dd9d45af1ac3ab9c902362205bdac9c10f05a789cb87b6"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "e7da396fbc3076b1e745298a684e350805274e06541d594d7259048e922893be"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "42ff05b4be9d444653411083be52d8014dd56f8658961cd941ea0530318c7832"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
 metafile = true
@@ -143,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "a358d855d607dde44433097b6a054855143cb2f023f70c23020427b3548b9972"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "e6c623c0c7bf1d3038aaa6fdb35a6aba5777ce1a70938ef6ba7340cc3072709d"
 metafile = true
 
 [[files]]

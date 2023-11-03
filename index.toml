@@ -59,6 +59,11 @@ hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "474ab7974a81e6844d9967866a763c2480aea4028bcaafb0d2dcb24ba1a2898d"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "77af460162c8b171b2060fb328faf161e718347cdf7d08b933bce12ab7f3edeb"
 metafile = true
 
 [[files]]
@@ -109,13 +119,53 @@ hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-byg-compat.pw.toml"
+hash = "184db6c4677f168c8e4dffaa3067f73bbfc6f0a74906b17d67b7cc5bd04b2471"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "996dc5805cfb6c4a9ca27eeadd573464cf0f21b85f24a81f930afe9b9655f49f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f8af986638dce48832ec3beff0808420f4049e81376dcfc026b441a3c0c88cff"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "e7fec92e06e88e8e596a79d1157bd142a89d64524c930023e863e8984b1607df"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "b544427cf3023be9bae553b1eb5999978eb445e8207f1fc78ac4ea5db1736c55"
 metafile = true
 
 [[files]]
@@ -149,6 +199,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "bba77af18100c8adf8636b5ac06fb94f5b41a55598ac23ae61aa41e222d9fe0f"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -164,6 +219,11 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "4f45e62ce845e43ea425e4da32bfa3ca450aef194901fe1acb66570ffa5491d6"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
@@ -171,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "e1b20a8d22c09bcfbbcc5f32abe8918af8d9fc0b98692c5000901367b5d0d184"
+metafile = true
+
+[[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "03407f7f966e6b7a494af62f59eb6ae47f471070d4f705f4bb701823f8f97298"
 metafile = true
 
 [[files]]
@@ -229,8 +294,18 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ee683e70f1d30d66393a560c17b0aeb54a609fb1b7286447855a490b44a5ba28"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7abc412903f61a1768dd4fba8106bf8ee30834f74adc3f7e94ca98400c5d1733"
 metafile = true
 
 [[files]]

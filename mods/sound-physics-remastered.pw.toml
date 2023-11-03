@@ -1,0 +1,17 @@
+name = "Sound Physics Remastered"
+filename = "soundphysics-fabric-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/7P98uY0M/soundphysics-fabric-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "e258386e8b8a24be7f6b90823a022988aebe0a78"
+
+[update]
+[update.modrinth]
+mod-id = "qyVF9oeo"
+version = "7P98uY0M"
+
+[option]
+optional = true
+description = "Adds amazing sound physics to the game, may be resource intensive."

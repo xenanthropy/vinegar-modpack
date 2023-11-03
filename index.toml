@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f2614b7e5aca536c3a4a0c8602febfcc419241e06cb28eba99a7a5f3528eb41b"
+hash = "769f68508e5d1d8728765049339db83ce18aee953c04f474e265e0733db62442"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
+hash = "3a0f7dd9775412b2005bd34aa722635a1629f2a7011ce35d9ab9483edb7e4561"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "3a263a6e8eb1d6b143b3fee3f9b25c7fe8508ff1cfade1ac3d749e46cbac37be"
+hash = "f791f000d94b09cb0359ea71f08479833b77afa23b1fb41bd089f5430d10f6da"
 metafile = true
 
 [[files]]

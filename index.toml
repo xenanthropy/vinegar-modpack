@@ -19,6 +19,11 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "04b91488c7d4745ebaebf869ce5266b145f69096113fb56f4b6fa21d92edb750"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "b0f1f64f998f86fec1bbaf06eb39c08ea3c712b590170d3277e899a74f045c2f"
 metafile = true
@@ -54,6 +59,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f2614b7e5aca536c3a4a0c8602febfcc419241e06cb28eba99a7a5f3528eb41b"
 metafile = true
@@ -86,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -201,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/talkbubbles.pw.toml"
 hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]

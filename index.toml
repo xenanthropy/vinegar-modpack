@@ -39,6 +39,16 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true

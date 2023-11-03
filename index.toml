@@ -44,6 +44,11 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -89,6 +94,11 @@ hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "405d8095b3c28540def5f7faed79cc132da881442ee94f501168171ccb4a3332"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "769f68508e5d1d8728765049339db83ce18aee953c04f474e265e0733db62442"
 metafile = true
@@ -106,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]

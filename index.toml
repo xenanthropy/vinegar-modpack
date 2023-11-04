@@ -144,6 +144,11 @@ hash = "769f68508e5d1d8728765049339db83ce18aee953c04f474e265e0733db62442"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b31179108f658fdc015f1eed9a3614d08b212de2e67b2391678d93e3e561c1f2"
 metafile = true
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "36649503e524c59d80c069fe2786e1e446032c02fb5b8d4e83309c2edee2870c"
 metafile = true
 
 [[files]]

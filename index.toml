@@ -49,11 +49,6 @@ hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
-metafile = true
-
-[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "04b91488c7d4745ebaebf869ce5266b145f69096113fb56f4b6fa21d92edb750"
 metafile = true

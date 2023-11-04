@@ -379,6 +379,11 @@ hash = "68b62713383b52d67c1c726b2a8cad12a73eb30580764585fecfba172704b7a9"
 metafile = true
 
 [[files]]
+file = "mods/resounding.pw.toml"
+hash = "4799c19f03cd102fb813b0cbc318f8c0c3359da8b269935ada10b46c505ef7cc"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
 metafile = true
@@ -435,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "e36ab78adf99008576b207f37527d3252b650022e969499bceddb92137fd4d3d"
+hash = "c14d10a4cd1ccddd66b06ac035d0ce2bcaddce762b6e6fab86c6084dbc6ada80"
 metafile = true
 
 [[files]]

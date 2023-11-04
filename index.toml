@@ -204,6 +204,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "3a0f7dd9775412b2005bd34aa722635a1629f2a7011ce35d9ab9483edb7e4561"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "aaf17dbf6d8525f472c4b6b533499feb2b807aac179c0e8370f2225447e0169f"
 metafile = true
 
 [[files]]

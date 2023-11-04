@@ -159,6 +159,11 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "3a5ce66dfb0cfeba136b2731ab6f24f640663cdea611cac3e12870d16334cb3e"
 metafile = true
@@ -476,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
 metafile = true
 
 [[files]]

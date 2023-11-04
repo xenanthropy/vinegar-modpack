@@ -9,6 +9,16 @@ file = "README.md"
 hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
@@ -24,6 +34,16 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/archon.pw.toml"
+hash = "05e7227a7ce69a1ca4cf2be29e408c465a90b05e64f17599f9fb9768317fd301"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "04b91488c7d4745ebaebf869ce5266b145f69096113fb56f4b6fa21d92edb750"
 metafile = true
@@ -31,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/blanket.pw.toml"
 hash = "b0f1f64f998f86fec1bbaf06eb39c08ea3c712b590170d3277e899a74f045c2f"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
@@ -46,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
@@ -91,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
@@ -199,6 +234,21 @@ hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "3646af24486af091dd2cbfc96a319d5a188f6dcb08f373241d90331011357ce6"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -254,6 +304,16 @@ hash = "e1b20a8d22c09bcfbbcc5f32abe8918af8d9fc0b98692c5000901367b5d0d184"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
+metafile = true
+
+[[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "03407f7f966e6b7a494af62f59eb6ae47f471070d4f705f4bb701823f8f97298"
 metafile = true
@@ -264,8 +324,28 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true
 
 [[files]]
@@ -276,6 +356,16 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "68b62713383b52d67c1c726b2a8cad12a73eb30580764585fecfba172704b7a9"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
@@ -299,6 +389,11 @@ hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -319,6 +414,11 @@ hash = "e36ab78adf99008576b207f37527d3252b650022e969499bceddb92137fd4d3d"
 metafile = true
 
 [[files]]
+file = "mods/spell-power.pw.toml"
+hash = "11452bbe58a5ce975bdf6245638082dcb8c646834492df6cd8718a6c756b7b18"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -334,6 +434,16 @@ hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
 metafile = true
 
 [[files]]
+file = "mods/tech-reborn-patchouli.pw.toml"
+hash = "7a01437021729646e474f787dd932814d54af0c9dbc023069257228c571fe816"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "7d4ce0df929ce3534b5b35222a00ee370eb578a7c2acf976a59d6c3614087335"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
@@ -346,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/vtdownloader.pw.toml"
 hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "e33fd461dcf4611ce9c93224766b828ec7252709042d8bd593316a7d90b80295"
 metafile = true
 
 [[files]]

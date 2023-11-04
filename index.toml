@@ -14,6 +14,11 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "754e8d75a3a3c814d34cc7072116acbd09d079f26b15601301bb0b01786632f3"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
 metafile = true
@@ -41,6 +46,21 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "96db2068a8edb47d615d74bdc89241174b1d0aa7859b0bcffef365d801dd5717"
 metafile = true
 
 [[files]]
@@ -154,6 +174,11 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "3a5ce66dfb0cfeba136b2731ab6f24f640663cdea611cac3e12870d16334cb3e"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
@@ -206,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "7a2eac29c0d88310487ceb0951fa6fe686a799d0e352448776e9cfffc98fa0a1"
 metafile = true
 
 [[files]]

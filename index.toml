@@ -394,6 +394,11 @@ hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
 metafile = true
 
 [[files]]
+file = "mods/skip-transitions.pw.toml"
+hash = "70b66e2a03d8a6531f0c6e71fa9d6d878ea8f42929ac43f4295b2a3111279b86"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
 metafile = true

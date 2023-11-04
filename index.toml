@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "405d8095b3c28540def5f7faed79cc132da881442ee94f501168171ccb4a3332"
+hash = "0715cc5f980cea935b351f7929cd40710d021d4f2cae74780be4f7882886d24d"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/resounding.pw.toml"
-hash = "4799c19f03cd102fb813b0cbc318f8c0c3359da8b269935ada10b46c505ef7cc"
+hash = "3c34c16d8b36e6e023f074e3324c898be2282ea1a80f455163f3d132c954d1de"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c14d10a4cd1ccddd66b06ac035d0ce2bcaddce762b6e6fab86c6084dbc6ada80"
+hash = "2fc57dcdbba699a0569ad11ab36cfca1fdb9c59f7d8fb734d076ab919fb650d9"
 metafile = true
 
 [[files]]

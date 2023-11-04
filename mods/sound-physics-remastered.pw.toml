@@ -14,4 +14,4 @@ version = "7P98uY0M"
 
 [option]
 optional = true
-description = "Adds amazing sound physics to the game, may be resource intensive.\nDO NOT USE WITH RESOUNDING\n\n\nIf this causes JVM crashes make sure OpenAL is using pulse as a backend and not JACK."
+description = "Adds amazing sound physics to the game, may be resource intensive.\n\nDO NOT USE WITH RESOUNDING\n\nIf this causes JVM crashes make sure OpenAL is using pulse as a backend and not JACK."

@@ -489,6 +489,11 @@ hash = "2fc57dcdbba699a0569ad11ab36cfca1fdb9c59f7d8fb734d076ab919fb650d9"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "11452bbe58a5ce975bdf6245638082dcb8c646834492df6cd8718a6c756b7b18"
 metafile = true

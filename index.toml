@@ -9,6 +9,30 @@ file = "README.md"
 hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "fbe11cdff0b51277f8c9a3072ebdbf3d65289d18414aba30ab04238564f7c630"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "67d20ac3afe9538286de7c2a44f6bea546bdccf116b5246d0f5d6ce2d9a8b0a0"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/mojank.png"
+hash = "515d9b8b1d40ff61e7d4c098556d3aa130bff71c54d1fd74a6d42a7040687e39"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "e8c61f23075a3a2d639302c2f19a6a19c78e0f75f42ca18b5e5612839913e7ed"
 
@@ -172,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true
 
 [[files]]

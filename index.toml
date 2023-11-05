@@ -10,7 +10,7 @@ hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "65f64eb68d57d7bd1d5f475784046a765e3ec930add15060fe5bc72678cd0517"
+hash = "ef5a63fa7ab8bb52683ab9d45fb316cb633ce0702b61ed4c212bd4076f9480f7"
 
 [[files]]
 file = "config/customsplashscreen.json5"

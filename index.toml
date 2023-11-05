@@ -13,6 +13,10 @@ file = "config/EssentialCommands.properties"
 hash = "ef5a63fa7ab8bb52683ab9d45fb316cb633ce0702b61ed4c212bd4076f9480f7"
 
 [[files]]
+file = "config/capes.json5"
+hash = "53a832e6bf982fcc4935c9c42acc689bb95dfa6025c394ff0b190c15fc31121d"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "fbe11cdff0b51277f8c9a3072ebdbf3d65289d18414aba30ab04238564f7c630"
 
@@ -344,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalspawn.pw.toml"
-hash = "1aff7653ef8d3b4f15c687907a31693cf71adba978dd06483e4370099a44c7b9"
+hash = "2af20d2210c0ebae485cdf77200490a5f390ed1f7f7d9eba8d359bc2f26bb1e6"
 metafile = true
 
 [[files]]

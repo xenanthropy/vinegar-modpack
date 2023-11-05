@@ -1,0 +1,13 @@
+name = "Combatlog"
+filename = "combatlog-2.0-1.19.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nNnLt4Jb/versions/TF5CMeqC/combatlog-2.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "547c4e31ab2e6ff4d17e541fb7697db1a062dec3"
+
+[update]
+[update.modrinth]
+mod-id = "nNnLt4Jb"
+version = "TF5CMeqC"

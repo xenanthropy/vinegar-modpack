@@ -164,6 +164,11 @@ hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
+file = "mods/combatlog.pw.toml"
+hash = "f3182f42c7e9f289bf1a9a2d68e7bdce32750fe07d4728d8d9fb05e55442c8ac"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "77af460162c8b171b2060fb328faf161e718347cdf7d08b933bce12ab7f3edeb"
 metafile = true

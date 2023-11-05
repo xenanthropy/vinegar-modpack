@@ -304,6 +304,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "a09e696bc0c571f5e83f877cae5935743b2df6d4bb26d74043c054a754236285"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/goodall.pw.toml"
 hash = "cc749bcadd85bb90b67c69a31ea8d8c672d67a3856aada412cc5f4afe8e8a89c"
+metafile = true
+
+[[files]]
+file = "mods/holograms.pw.toml"
+hash = "c18fa10144acd9b319cd2f14dde027f123ab9298c660682aea0a55d727a170df"
 metafile = true
 
 [[files]]
@@ -626,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "cff73b0a08d9684ecb4465042c333ea1f5c31bb7f963df4f5e80c6db142d7993"
 metafile = true
 
 [[files]]

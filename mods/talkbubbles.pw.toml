@@ -1,13 +1,13 @@
 name = "TalkBubbles"
-filename = "talkbubbles-1.0.2.jar"
-side = "both"
+filename = "talkbubbles-1.0.4.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BUpChT1v/versions/1.0.2/talkbubbles-1.0.2.jar"
 hash-format = "sha1"
-hash = "04ce6e7bc2d025dc9f8b7722c732d8baece0d29e"
+hash = "e6e15df66d6ea84764e3bd7bf460ef0189f175f7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "BUpChT1v"
-version = "N5rg1YeQ"
+[update.curseforge]
+file-id = 4088203
+project-id = 532113

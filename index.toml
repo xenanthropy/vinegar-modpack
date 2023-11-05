@@ -10,7 +10,7 @@ hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "e38a7166320af69e8b78b921e2a3ff29720ecd3c5b45e1d233952a8c8ba689d9"
+hash = "65f64eb68d57d7bd1d5f475784046a765e3ec930add15060fe5bc72678cd0517"
 
 [[files]]
 file = "config/customsplashscreen.json5"
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/talkbubbles.pw.toml"
-hash = "4833ab71eda9697a3109ef1044db26c75514ac484cfb68d77f938abf67e73530"
+hash = "cbb45b70e0251fe7cbef81b02fc0a7fc0b0937b77ca186ff24e4167ec5c2e9a4"
 metafile = true
 
 [[files]]

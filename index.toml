@@ -343,6 +343,11 @@ hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
+file = "mods/globalspawn.pw.toml"
+hash = "1aff7653ef8d3b4f15c687907a31693cf71adba978dd06483e4370099a44c7b9"
+metafile = true
+
+[[files]]
 file = "mods/goodall.pw.toml"
 hash = "cc749bcadd85bb90b67c69a31ea8d8c672d67a3856aada412cc5f4afe8e8a89c"
 metafile = true

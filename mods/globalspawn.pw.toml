@@ -1,6 +1,6 @@
 name = "GlobalSpawn"
 filename = "globalspawn-1.6.1-1.19.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CfOfbtg4/versions/1.6.1/globalspawn-1.6.1-1.19.0.jar"

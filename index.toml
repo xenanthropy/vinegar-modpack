@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "04b91488c7d4745ebaebf869ce5266b145f69096113fb56f4b6fa21d92edb750"
+hash = "225792c6c19bfcbe6095a94d54994e616bc20257c26ffcc141cd13e469ebb94e"
 metafile = true
 
 [[files]]
@@ -264,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "d7c62098ea13919a210eefeddac3e52005c59aa2e088473c83d800bca6e0df39"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
 metafile = true
 
 [[files]]
@@ -629,11 +624,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
 metafile = true
 
 [[files]]

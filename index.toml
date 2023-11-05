@@ -543,11 +543,6 @@ hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
 metafile = true
 
 [[files]]
-file = "mods/set-world-spawn-point.pw.toml"
-hash = "0f340d02e0c0dbae4e87737d28252c9f63a0c2ceee9c8fd21edaa2a5fe8a2eff"
-metafile = true
-
-[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true

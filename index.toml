@@ -244,6 +244,11 @@ hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "d7c62098ea13919a210eefeddac3e52005c59aa2e088473c83d800bca6e0df39"
+metafile = true
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "f26ef771ff8f9b19237c284322a17407db78e65b7d96afb010bf52182b1f3662"
 metafile = true
@@ -391,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "d9ea83ba847e5e3d6ac95e29d427bdaa11ae375db4abeac03f9915adc6fd69c9"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
 metafile = true
 
 [[files]]

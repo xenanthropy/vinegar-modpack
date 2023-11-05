@@ -119,11 +119,6 @@ hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
 
 [[files]]
-file = "mods/cardboard.pw.toml"
-hash = "92fa97795f9365af8b967849a9a6c430e8755e2610ac13c030e25b21a12c122c"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
 metafile = true

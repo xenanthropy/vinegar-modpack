@@ -9,6 +9,10 @@ file = "README.md"
 hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "e38a7166320af69e8b78b921e2a3ff29720ecd3c5b45e1d233952a8c8ba689d9"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "fbe11cdff0b51277f8c9a3072ebdbf3d65289d18414aba30ab04238564f7c630"
 

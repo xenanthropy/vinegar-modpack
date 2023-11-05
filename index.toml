@@ -168,6 +168,11 @@ hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "5ac0bac6d3f0219afb83d3c22558cb14f241ae7022a69a9574a01e5ed240b6ee"
+metafile = true
+
+[[files]]
 file = "mods/combatlog.pw.toml"
 hash = "f3182f42c7e9f289bf1a9a2d68e7bdce32750fe07d4728d8d9fb05e55442c8ac"
 metafile = true
@@ -533,6 +538,11 @@ hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
 metafile = true
 
 [[files]]
+file = "mods/set-world-spawn-point.pw.toml"
+hash = "0f340d02e0c0dbae4e87737d28252c9f63a0c2ceee9c8fd21edaa2a5fe8a2eff"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true
@@ -659,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/yawp.pw.toml"
-hash = "cff73b0a08d9684ecb4465042c333ea1f5c31bb7f963df4f5e80c6db142d7993"
+hash = "ad5bb69cef7d46f0b617588d8af07e9b98e9f52e1c64749d926de02d325ae5a6"
 metafile = true
 
 [[files]]

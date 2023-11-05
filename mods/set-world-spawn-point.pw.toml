@@ -1,0 +1,13 @@
+name = "Set World Spawn Point"
+filename = "setworldspawnpoint-1.19.2-3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EL8fq1gi/versions/wHsY9t3G/setworldspawnpoint-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "7e4b5a5263ffc6fca80fc0466da66c6f245f8888"
+
+[update]
+[update.modrinth]
+mod-id = "EL8fq1gi"
+version = "wHsY9t3G"

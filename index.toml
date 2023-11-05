@@ -9,6 +9,22 @@ file = "README.md"
 hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "e8c61f23075a3a2d639302c2f19a6a19c78e0f75f42ca18b5e5612839913e7ed"
+
+[[files]]
+file = "config/customwindowtitle/icon16.png"
+hash = "8a6906f6810e667f7be93fca2fded3c6293820cb4705e7516791bf27ba2e8731"
+
+[[files]]
+file = "config/customwindowtitle/icon32.png"
+hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
+
+[[files]]
+file = "config/nicerskies.json"
+hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
@@ -46,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "34ddf7c6b936f4ec2fb4190414fa4bd4f08f9ba66656eb8333aa6062bf83f79e"
 metafile = true
 
 [[files]]
@@ -151,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "27c87a6934487b2ba136b6712533e58058cce26d3e011e1c8634a5a390daa2f7"
 metafile = true
 
 [[files]]
@@ -321,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "d9ea83ba847e5e3d6ac95e29d427bdaa11ae375db4abeac03f9915adc6fd69c9"
 metafile = true
 
 [[files]]
@@ -554,6 +585,11 @@ hash = "e33fd461dcf4611ce9c93224766b828ec7252709042d8bd593316a7d90b80295"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "edf0a99c440abb4bd227d6b62963a941d13addce81c4d5505895a771af02f2a6"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "65c7ed5acc403e2be5d645491cd5a90a0bfccfb852daf12c825766b27daaa95a"
 metafile = true
@@ -567,3 +603,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "resources/minecraft/texts/splashes.txt"
+hash = "6f73445018daa9aa21cd027d42f738f9bbbb82c3e166ab613ada367cbc66cdee"

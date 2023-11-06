@@ -1,0 +1,13 @@
+name = "Charm Fixer"
+filename = "charm_fixer-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wofAHCXj/versions/nvh4XPN9/charm_fixer-1.0.0.jar"
+hash-format = "sha1"
+hash = "ddcdeda87098b65a08169b8247b4f63b3a1575f3"
+
+[update]
+[update.modrinth]
+mod-id = "wofAHCXj"
+version = "nvh4XPN9"

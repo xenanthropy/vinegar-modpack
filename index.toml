@@ -142,6 +142,11 @@ hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
+file = "mods/charm-fixer.pw.toml"
+hash = "e6d715337d086c10a0856276752172813d75e4702a228098d41ef93ea2c6cf39"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true

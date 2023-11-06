@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5ac0bac6d3f0219afb83d3c22558cb14f241ae7022a69a9574a01e5ed240b6ee"
+hash = "c79228b562dc69643a5cf797b38e9870445a67772c6e5a455f64c8af454645c3"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "3a5ce66dfb0cfeba136b2731ab6f24f640663cdea611cac3e12870d16334cb3e"
+hash = "6f34398f195893d16572f9fb8cd98cea823355accc79a1637fcac79867e2140f"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aaf17dbf6d8525f472c4b6b533499feb2b807aac179c0e8370f2225447e0169f"
+hash = "5dce1f3769ad7b1d40d56676a52e23d9d37d90e5a7a7d5bdc668f3d8cebb4c5f"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f45e62ce845e43ea425e4da32bfa3ca450aef194901fe1acb66570ffa5491d6"
+hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7abc412903f61a1768dd4fba8106bf8ee30834f74adc3f7e94ca98400c5d1733"
+hash = "a95ee3ef8acf9d1f1e050f8c96f9d6a177d56b28632592a3846c5c7944e01a11"
 metafile = true
 
 [[files]]

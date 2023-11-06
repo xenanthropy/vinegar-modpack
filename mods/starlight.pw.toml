@@ -11,3 +11,8 @@ hash = "de6fe932555604345477db89b59d59249909c640"
 [update.modrinth]
 mod-id = "H8CaAYZC"
 version = "qH1xCwoC"
+
+[option]
+default=true
+optional=true
+description="Starlight is a rewrite of Minecraft's lighting engine.\nIf you don't plan on playing this modpack on singleplayer this can be safely disabled as Minecraft's lighting engine is ran on the server side."

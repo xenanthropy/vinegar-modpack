@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/vtdownloader.pw.toml"
-hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
+hash = "224fcd7152d0f7f27f87b97bcd0a3134827bf42a9fa5d1f6d17cc457d138a0ef"
 metafile = true
 
 [[files]]

@@ -11,3 +11,7 @@ hash = "45061b1584260d815ff79ccd48f50122ac7e9e2c"
 [update.modrinth]
 mod-id = "1E2sq1cp"
 version = "P8dCLvcZ"
+
+[option]
+optional = true
+description = "Utility for downloading Vanilla Tweaks resource packs."

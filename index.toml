@@ -362,6 +362,11 @@ hash = "c18fa10144acd9b319cd2f14dde027f123ab9298c660682aea0a55d727a170df"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "990729ecdd3fe5a2417d11bed4216fd956d3edf87ba0df86eb3a97e21d1ff6c1"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581"
 metafile = true

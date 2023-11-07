@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "3a0f7dd9775412b2005bd34aa722635a1629f2a7011ce35d9ab9483edb7e4561"
+hash = "7b1743a07260c361e2f38ebde6b065a64eb88297fbf6f671af1688f4696b9331"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "d0f89af10d2d8652d8e0081157d3b9bb1c13917e22eb5a5e4380589def4ca9d6"
+hash = "6e1f2d7b2ffa002d1870414109475a9fbcfdd5757d9bb885a5b31c022ceef16b"
 metafile = true
 
 [[files]]

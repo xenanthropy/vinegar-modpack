@@ -1,6 +1,6 @@
 name = "MidnightControls"
 filename = "midnightcontrols-1.7.4+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bXX9h73M/versions/HuoYq3E7/midnightcontrols-1.7.4%2B1.19.jar"

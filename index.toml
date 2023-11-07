@@ -512,6 +512,11 @@ hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "f1cc192a3fd0ae7432f271912bbb62d8f8f319ec3bb80a2f229907f11d4755cb"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true

@@ -292,11 +292,6 @@ hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
@@ -514,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]

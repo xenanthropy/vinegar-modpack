@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
+hash = "7da67e9f319cecaf57ce012eb9a0774aa3c927f6c047b905cfb86ec5f19d9bd5"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c79228b562dc69643a5cf797b38e9870445a67772c6e5a455f64c8af454645c3"
+hash = "c28b9c6a8dc28ece359475ea4be6ad4fe9a4ba9271a1945b7f4ca582cfaa591b"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5dce1f3769ad7b1d40d56676a52e23d9d37d90e5a7a7d5bdc668f3d8cebb4c5f"
+hash = "7069843aac59149458342b594235a210c0a81b190266cc30e5164271961c1a32"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
+hash = "5948fb3df75a8f770bdd99d7517083879af90c234f03a228d70b66e3717216b3"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a95ee3ef8acf9d1f1e050f8c96f9d6a177d56b28632592a3846c5c7944e01a11"
+hash = "b6e2c3c1bc1897933e8df24e3c3da1fbe4fad762dbb2218c6ff197b5b2cd5d61"
 metafile = true
 
 [[files]]

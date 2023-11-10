@@ -53,10 +53,6 @@ file = "config/customwindowtitle/icon32.png"
 hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
 
 [[files]]
-file = "config/early-loading-screen.properties"
-hash = "303d82dcab9420135b6b323e39d2a9ccc2e704ae839daf15456459c119ab4d19"
-
-[[files]]
 file = "config/nicerskies.json"
 hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
 
@@ -167,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7da67e9f319cecaf57ce012eb9a0774aa3c927f6c047b905cfb86ec5f19d9bd5"
+hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true
 
 [[files]]
@@ -187,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c28b9c6a8dc28ece359475ea4be6ad4fe9a4ba9271a1945b7f4ca582cfaa591b"
+hash = "c79228b562dc69643a5cf797b38e9870445a67772c6e5a455f64c8af454645c3"
 metafile = true
 
 [[files]]
@@ -296,6 +292,11 @@ hash = "b6a43638d6f3e40db516964ba9fa1dcdbe2851d3b39b1a91a977eefc7f237480"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
@@ -352,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -457,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7069843aac59149458342b594235a210c0a81b190266cc30e5164271961c1a32"
+hash = "5dce1f3769ad7b1d40d56676a52e23d9d37d90e5a7a7d5bdc668f3d8cebb4c5f"
 metafile = true
 
 [[files]]
@@ -513,11 +514,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -577,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5948fb3df75a8f770bdd99d7517083879af90c234f03a228d70b66e3717216b3"
+hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
 metafile = true
 
 [[files]]
@@ -627,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b6e2c3c1bc1897933e8df24e3c3da1fbe4fad762dbb2218c6ff197b5b2cd5d61"
+hash = "a95ee3ef8acf9d1f1e050f8c96f9d6a177d56b28632592a3846c5c7944e01a11"
 metafile = true
 
 [[files]]

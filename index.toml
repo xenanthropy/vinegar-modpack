@@ -53,6 +53,10 @@ file = "config/customwindowtitle/icon32.png"
 hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
 
 [[files]]
+file = "config/early-loading-screen.properties"
+hash = "303d82dcab9420135b6b323e39d2a9ccc2e704ae839daf15456459c119ab4d19"
+
+[[files]]
 file = "config/nicerskies.json"
 hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
 

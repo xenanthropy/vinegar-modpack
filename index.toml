@@ -53,6 +53,98 @@ file = "config/customwindowtitle/icon32.png"
 hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
 
 [[files]]
+file = "config/ironchests/chests/barrels/copper.json"
+hash = "1656c74e8a818e08a31ddc7b7a5cf9034c7af09b55e2ca600e4c333eaebafcd2"
+
+[[files]]
+file = "config/ironchests/chests/barrels/crystal.json"
+hash = "a6039adab0d88505073ea5617b8fd67c3f85b1ff7f471a058c8ceddc18c5d063"
+
+[[files]]
+file = "config/ironchests/chests/barrels/diamond.json"
+hash = "fc9ec99587b4ed5f65a75b28b02f3eed5296094506679ecbd27671e13d28fc7a"
+
+[[files]]
+file = "config/ironchests/chests/barrels/gold.json"
+hash = "b7fffdb3473e942727d28da3ed6ae8daae8e1f6836badc3a62791eb6d8a789c1"
+
+[[files]]
+file = "config/ironchests/chests/barrels/iron.json"
+hash = "3a8d6c9efc0b3386b43599d46fee11683aeb72bf8a2b19dfd82e0f6aeca6e2f1"
+
+[[files]]
+file = "config/ironchests/chests/barrels/netherite.json"
+hash = "bf8debc11c60cb40f1d4e835d30299c9b112ac8f8add16cd27fa54dfe624dfbd"
+
+[[files]]
+file = "config/ironchests/chests/barrels/obsidian.json"
+hash = "89bad28248f2ebc766a8b4dab5121c3c1495bf3cd923aa56868e52bc6117048a"
+
+[[files]]
+file = "config/ironchests/chests/copper.json"
+hash = "bafdb73b7f753241db0ae3371c41def15a0eb229034e99727d8488f9d59aef36"
+
+[[files]]
+file = "config/ironchests/chests/crystal.json"
+hash = "3c6b41d234f8b03f57d1fe6abc41fc9e576e9aef905f18d717623aea5e83c101"
+
+[[files]]
+file = "config/ironchests/chests/diamond.json"
+hash = "4090f08f4adb5f821f28575a535fb8f4609deb07998568f01e23810ea8580bb8"
+
+[[files]]
+file = "config/ironchests/chests/dirt.json"
+hash = "022f7e089ea5d1a584599f97039da53891f69355ec30f7b8f67580132cb92b49"
+
+[[files]]
+file = "config/ironchests/chests/gold.json"
+hash = "89b7a054ff10c2269e83313796b1913e85dd56174295b9c9fcc1aec428b9cb12"
+
+[[files]]
+file = "config/ironchests/chests/iron.json"
+hash = "13faa8428477b12cf97f40e634f09aeceb2b33ff7716bc1f8b0c76cb121a5239"
+
+[[files]]
+file = "config/ironchests/chests/netherite.json"
+hash = "3513544613e6eb1bab1f45c3bdec91d9d737b6abe85411b0db32c74bf96d06ee"
+
+[[files]]
+file = "config/ironchests/chests/obsidian.json"
+hash = "55ef702aacb657eed6ca87dc53fe5ce5c2f373ad6ef70addfa9b9952117ad9ff"
+
+[[files]]
+file = "config/ironchests/defaults.properties"
+hash = "e91bafa5f17408f49dba24cd7d39b8da3bdcfd4cb3f0038676522d8f9008ee5b"
+
+[[files]]
+file = "config/ironchests/upgrade_types/copper.json"
+hash = "404ef22ef2db426a552212f4f86bd624515462dba78bdfb3e00228ea8a9e4bf5"
+
+[[files]]
+file = "config/ironchests/upgrade_types/crystal.json"
+hash = "8b09bcacf29c9eaac0f4fa12387c0cc1bf594d0d4496b8bf5a6e15584647b90e"
+
+[[files]]
+file = "config/ironchests/upgrade_types/diamond.json"
+hash = "a4002f060c72726793d28a62327549333dcf8e3a06f31f7d64524666dfb2f694"
+
+[[files]]
+file = "config/ironchests/upgrade_types/gold.json"
+hash = "718d6c729c19e4b6a1857265c84dca74e8aeabb229dfdccd215b04c18c5d357a"
+
+[[files]]
+file = "config/ironchests/upgrade_types/iron.json"
+hash = "ed4606170f443d3cd434a028bde5bab2cde13786f86bdbda1a47c89f625aa594"
+
+[[files]]
+file = "config/ironchests/upgrade_types/netherite.json"
+hash = "fea9c3746cc8724b51c16aedf2b1188294d162073c562d9042c262f01c6a6d25"
+
+[[files]]
+file = "config/ironchests/upgrade_types/obsidian.json"
+hash = "57e5308e115e1338a3603ea153a591ac917e5802625407a94284576d73774f11"
+
+[[files]]
 file = "config/nicerskies.json"
 hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
 
@@ -685,6 +777,26 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "resources/ironchests/textures/gui/chests/copper.png"
+hash = "35087059a749f1785ad0497b81aee1c480f717071ce9ab5c15a5d2f0b2bd4bcc"
+
+[[files]]
+file = "resources/ironchests/textures/gui/chests/diamond.png"
+hash = "0e1a232d30f7ed981830538d13a8577f8c2c60c794f940575fdae3e6efbcedbe"
+
+[[files]]
+file = "resources/ironchests/textures/gui/chests/gold.png"
+hash = "41631cfce21f55d761813c0c0f12e423195b002d4e1f691252a0eaec668197b5"
+
+[[files]]
+file = "resources/ironchests/textures/gui/chests/iron.png"
+hash = "a8027ecd89b2216d6def6651d50526aaeb945f5b3a92f0112dc7ef6d8a90c20c"
+
+[[files]]
+file = "resources/ironchests/textures/gui/chests/netherite.png"
+hash = "d1a0e48c986b91325f1f2615c3a52ecff991281ad9ad65b62df63b1c93c26865"
 
 [[files]]
 file = "resources/minecraft/texts/splashes.txt"

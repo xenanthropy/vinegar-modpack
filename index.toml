@@ -219,6 +219,11 @@ hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
 metafile = true
@@ -659,6 +664,11 @@ hash = "6e1f2d7b2ffa002d1870414109475a9fbcfdd5757d9bb885a5b31c022ceef16b"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "118362f9760d3dc05eeeb7eb505e1556dcf12ba4e14dbf2d3f47d9c2b4ceee86"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
 metafile = true
@@ -731,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "de9d12080a08f17c328e1bc85271e40198a2310343e9a4573e831c04015d68f1"
 metafile = true
 
 [[files]]

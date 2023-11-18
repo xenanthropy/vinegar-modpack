@@ -149,6 +149,10 @@ file = "config/nicerskies.json"
 hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
 
 [[files]]
+file = "config/waystones.toml"
+hash = "a12a02b93cee0b77bde21286cb3fbf28e5b2dd03e18d6652328fd3e4d6c16e46"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true

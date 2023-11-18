@@ -323,6 +323,11 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
+metafile = true
+
+[[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true

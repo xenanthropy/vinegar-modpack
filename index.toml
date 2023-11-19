@@ -173,6 +173,11 @@ hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "43384454eec899c2ef7e2c95a2bc5916792b9c885377b5485674bed373b41774"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7da67e9f319cecaf57ce012eb9a0774aa3c927f6c047b905cfb86ec5f19d9bd5"
+hash = "97b701033132e2157135e2ffbdb6fc763e9c4f4190812a1186786751b486bb96"
 metafile = true
 
 [[files]]
@@ -279,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c28b9c6a8dc28ece359475ea4be6ad4fe9a4ba9271a1945b7f4ca582cfaa591b"
+hash = "a70312f0489f68cd87b03bd6dfc0e6cad1b33b57c49a6e1040506e7317f954c9"
 metafile = true
 
 [[files]]
@@ -305,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "8d1d92050b2d2685b8b58f43306b5766bee9d1e5281e00ac80dc4ec2fe4ab751"
 metafile = true
 
 [[files]]
@@ -349,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "769f68508e5d1d8728765049339db83ce18aee953c04f474e265e0733db62442"
+hash = "8831c4a8d49b378cd2fe5973aaa73707f89234d99f73e5b96f9d42b0a780bffc"
 metafile = true
 
 [[files]]
@@ -404,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
@@ -564,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7069843aac59149458342b594235a210c0a81b190266cc30e5164271961c1a32"
+hash = "4dbb15fe63b26bb00d1853ea637caaaccabb373e4658d55ad22e584584db6beb"
 metafile = true
 
 [[files]]
@@ -734,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bfcbf4f65c05e59334238724590bebd342ba499de443b3d321f8971c155aee5e"
+hash = "7b9f797ca6af3ac6fa55de54dc6298e549c75d83cae68f039a30ccedf3bf682f"
 metafile = true
 
 [[files]]

@@ -1,14 +1,14 @@
 [xpCost]
 inverseXpCost = false
-blocksPerXpLevel = 1000
-minimumBaseXpCost = 0.0
-maximumBaseXpCost = 0.0
-xpCostPerLeashed = 0
-dimensionalWarpXpCost = 0
-globalWaystoneXpCostMultiplier = 0.0
+blocksPerXpLevel = 0
+minimumBaseXpCost = 1.0
+maximumBaseXpCost = 3.0
+xpCostPerLeashed = 1
+dimensionalWarpXpCost = 3
+globalWaystoneXpCostMultiplier = 1.0
 warpStoneXpCostMultiplier = 0.0
-waystoneXpCostMultiplier = 0.0
-sharestoneXpCostMultiplier = 0.0
+waystoneXpCostMultiplier = 1.0
+sharestoneXpCostMultiplier = 1.0
 portstoneXpCostMultiplier = 0.0
 warpPlateXpCostMultiplier = 0.0
 inventoryButtonXpCostMultiplier = 0.0

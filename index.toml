@@ -150,7 +150,7 @@ hash = "76747d8d6efa472ba810ff8e20c2c428af1e00ee3054b8126ad50472b8aebe8f"
 
 [[files]]
 file = "config/waystones.toml"
-hash = "a12a02b93cee0b77bde21286cb3fbf28e5b2dd03e18d6652328fd3e4d6c16e46"
+hash = "a3c96e7fdf81587556ad5227471f65d96221d3066979c86653afd81a1cbf49f6"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

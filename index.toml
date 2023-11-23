@@ -273,6 +273,11 @@ hash = "474ab7974a81e6844d9967866a763c2480aea4028bcaafb0d2dcb24ba1a2898d"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true

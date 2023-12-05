@@ -6,11 +6,11 @@
     "max": [1, 1, 1]
   },
   "length": 11,
-  "rows": 6,
+  "rows": 8,
   "inventoryOffset": 26,
   "menuOffset": 8,
   "width": 212,
-  "height": 222,
+  "height": 258,
   "properties": {
     "type": "builder",
     "material": "metal",

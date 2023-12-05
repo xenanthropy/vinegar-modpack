@@ -54,19 +54,19 @@ hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
-hash = "1656c74e8a818e08a31ddc7b7a5cf9034c7af09b55e2ca600e4c333eaebafcd2"
+hash = "6454a9270beb747a9f73bb31593b9c5681e8a85167e8646b79837416214b51e1"
 
 [[files]]
 file = "config/ironchests/chests/barrels/crystal.json"
-hash = "a6039adab0d88505073ea5617b8fd67c3f85b1ff7f471a058c8ceddc18c5d063"
+hash = "5ccccbd31db1e4cb2bc7732b1a30c0fb7928404023ed7353e13aa371a81c6b6d"
 
 [[files]]
 file = "config/ironchests/chests/barrels/diamond.json"
-hash = "fc9ec99587b4ed5f65a75b28b02f3eed5296094506679ecbd27671e13d28fc7a"
+hash = "ef53fb24bc86d0beb029bc2cad26fd99bccf07a84a1f6af9128bb4341dd534d5"
 
 [[files]]
 file = "config/ironchests/chests/barrels/gold.json"
-hash = "b7fffdb3473e942727d28da3ed6ae8daae8e1f6836badc3a62791eb6d8a789c1"
+hash = "1566c18d2bb38962f4c99e5d5e7322796d4a804c1d82275d8e502cb9cafc4a5a"
 
 [[files]]
 file = "config/ironchests/chests/barrels/iron.json"
@@ -74,11 +74,11 @@ hash = "3a8d6c9efc0b3386b43599d46fee11683aeb72bf8a2b19dfd82e0f6aeca6e2f1"
 
 [[files]]
 file = "config/ironchests/chests/barrels/netherite.json"
-hash = "bf8debc11c60cb40f1d4e835d30299c9b112ac8f8add16cd27fa54dfe624dfbd"
+hash = "4b1aa6eebb12f8e03a50dc8aa1428202463504d312d093a7339e4ade4c189c96"
 
 [[files]]
 file = "config/ironchests/chests/barrels/obsidian.json"
-hash = "89bad28248f2ebc766a8b4dab5121c3c1495bf3cd923aa56868e52bc6117048a"
+hash = "159699719ad5dde5bb312a70e775a086cec6b6482b4511f7c1fc12dd00b167c0"
 
 [[files]]
 file = "config/ironchests/chests/copper.json"

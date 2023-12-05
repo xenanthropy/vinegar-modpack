@@ -5,12 +5,12 @@
     "min": [0, 0, 0],
     "max": [1, 1, 1]
   },
-  "length": 9,
-  "rows": 4,
+  "length": 10,
+  "rows": 5,
   "inventoryOffset": 8,
   "menuOffset": 8,
   "width": 176,
-  "height": 187,
+  "height": 204,
   "properties": {
     "type": "builder",
     "material": "metal",

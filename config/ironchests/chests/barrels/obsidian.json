@@ -6,11 +6,11 @@
     "max": [1, 1, 1]
   },
   "length": 12,
-  "rows": 6,
+  "rows": 9,
   "inventoryOffset": 35,
   "menuOffset": 8,
   "width": 232,
-  "height": 222,
+  "height": 276,
   "texture": "diamond",
   "properties": {
     "type": "builder",

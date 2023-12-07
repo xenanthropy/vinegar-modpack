@@ -238,6 +238,11 @@ hash = "0322d8b529d1495a3cf8938d9ea0b9d759fc644c23a09b8c2758ca0550493a38"
 metafile = true
 
 [[files]]
+file = "mods/cc-fabric-energy.pw.toml"
+hash = "8b2543f61a55082b11f6e3d5644aeed40e26575bb8ebacbd838d2b5020ad6485"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true

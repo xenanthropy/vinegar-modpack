@@ -20,7 +20,7 @@ oh gee golly gosh! dbus! i'm getting hornier and hornier for dbus!!!
 1984
 best enjoyed with programming socks
 yay -S vinegar
-flatpak install io.github.vinegarhq.Vinegar
+flatpak install org.vinegarhq.Vinegar
 Tim Sweeney
 John Doe was here!
 she dances on my bit till i wine

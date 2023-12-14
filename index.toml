@@ -17,6 +17,10 @@ file = "config/capes.json5"
 hash = "53a832e6bf982fcc4935c9c42acc689bb95dfa6025c394ff0b190c15fc31121d"
 
 [[files]]
+file = "config/charm.toml"
+hash = "bfc26c391e8adf067a3d0591cc52b3fe0a88da2a775d376be88db162e8f45d82"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "fbe11cdff0b51277f8c9a3072ebdbf3d65289d18414aba30ab04238564f7c630"
 
@@ -51,6 +55,10 @@ hash = "8a6906f6810e667f7be93fca2fded3c6293820cb4705e7516791bf27ba2e8731"
 [[files]]
 file = "config/customwindowtitle/icon32.png"
 hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "2d8b14bc7e88696e654758a9473aebd2f461498f0b583bacd64304aea555e407"
 
 [[files]]
 file = "config/ironchests/chests/barrels/copper.json"
@@ -163,6 +171,16 @@ hash = "754e8d75a3a3c814d34cc7072116acbd09d079f26b15601301bb0b01786632f3"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "3ceaa011b0a783f29742b8ccb24b361fae3b7170bb65e389985c98cff60f948c"
+metafile = true
+
+[[files]]
+file = "mods/ae2cc.pw.toml"
+hash = "c627f2471c89f67b9868d8e2a8c66d3a2498328c4b8947f528b6bdd272501c29"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
 metafile = true
@@ -180,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "f81eee12bda0e0058f82ae92b342028aaa45a2bc2df46b8506cbee377e155089"
 metafile = true
 
 [[files]]
@@ -490,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/goodall.pw.toml"
 hash = "cc749bcadd85bb90b67c69a31ea8d8c672d67a3856aada412cc5f4afe8e8a89c"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
@@ -849,4 +877,4 @@ hash = "d1a0e48c986b91325f1f2615c3a52ecff991281ad9ad65b62df63b1c93c26865"
 
 [[files]]
 file = "resources/minecraft/texts/splashes.txt"
-hash = "6f73445018daa9aa21cd027d42f738f9bbbb82c3e166ab613ada367cbc66cdee"
+hash = "af4990794ebbbbe1ff87e8fbfd10b6ab7d874b5e07aaf9aca72dcfeeb11c9e82"

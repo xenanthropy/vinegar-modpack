@@ -657,6 +657,16 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "3b4163eb6fbc520874e18207fd44dea48d7de534d3d6111b6905dbdd85b3db49"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
 metafile = true

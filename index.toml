@@ -57,10 +57,6 @@ file = "config/customwindowtitle/icon32.png"
 hash = "4fd1a08c200d89f5aeb32f3cb59c8847ed580e98f8aaf7d46c8f76aa8924098a"
 
 [[files]]
-file = "config/gravestones.json"
-hash = "2d8b14bc7e88696e654758a9473aebd2f461498f0b583bacd64304aea555e407"
-
-[[files]]
 file = "config/ironchests/chests/barrels/copper.json"
 hash = "6454a9270beb747a9f73bb31593b9c5681e8a85167e8646b79837416214b51e1"
 
@@ -516,11 +512,6 @@ hash = "cc749bcadd85bb90b67c69a31ea8d8c672d67a3856aada412cc5f4afe8e8a89c"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
-metafile = true
-
-[[files]]
 file = "mods/holograms.pw.toml"
 hash = "c18fa10144acd9b319cd2f14dde027f123ab9298c660682aea0a55d727a170df"
 metafile = true
@@ -848,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/yawp.pw.toml"
 hash = "ad5bb69cef7d46f0b617588d8af07e9b98e9f52e1c64749d926de02d325ae5a6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "36bc57806a6d997d79767620bc3f0b019e878f337a2655b9cb98a006c4e5d2e8"
 metafile = true
 
 [[files]]

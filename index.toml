@@ -6,7 +6,7 @@ hash = "5285081716e8ba96f7eea3d156c98580eb75f5f4d2b8d05a7c7bcc75d05f84cb"
 
 [[files]]
 file = "README.md"
-hash = "5f76bce88d3ffea8a518bfa3faa3ba5bd70670c7d4791868dac268edb96e9b9b"
+hash = "effdb6865aa1a60350be0735a738dbd2370c00c6d6583dedc363b6106bda808a"
 
 [[files]]
 file = "config/EssentialCommands.properties"

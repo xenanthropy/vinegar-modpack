@@ -367,6 +367,11 @@ hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "16d63e67fc609fd71738428f3755f716e6d18e31f0afbf99edd26470ea29194b"
+metafile = true
+
+[[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true
@@ -704,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "fe59e715b4655a634e0993755ab74ebb08b95034f0d549a54ddd803c7672d978"
 metafile = true
 
 [[files]]

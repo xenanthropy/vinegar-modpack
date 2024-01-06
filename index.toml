@@ -392,6 +392,11 @@ hash = "5d7fd2d314e70ab5f606f1523fb6a82b02a35935b3debbab34112e5c6a283503"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "28b69512a47fa5a0b35024d605541ef5e1b6c50986b55770d471d442c845b96c"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "4a89ae947657d17348e619724ff7abc5b94e9d9aeaf3cee52fa4a2189a1e6d37"
 metafile = true
@@ -464,11 +469,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "f8af986638dce48832ec3beff0808420f4049e81376dcfc026b441a3c0c88cff"
 metafile = true
 
 [[files]]
